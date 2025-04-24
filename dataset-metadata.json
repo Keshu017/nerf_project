@@ -1,0 +1,10 @@
+{
+    "title": "NeRF Project Dataset",
+    "id": "your_kaggle_username/nerf-project-dataset",
+    "licenses": [
+      {
+        "name": "CC0-1.0"
+      }
+    ]
+  }
+  
